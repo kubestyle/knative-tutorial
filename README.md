@@ -1,11 +1,5 @@
 # Knative Tutorial
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $16<br />00 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 
 This tutorial shows how to use different parts of [Knative](https://www.knative.dev/docs/).
 
