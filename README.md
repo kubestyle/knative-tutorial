@@ -1,4 +1,10 @@
 # Knative Tutorial
+| -a | logical and
+Similar to && |
+| --- | --- |
+| -o | logical or
+Similar to || |
+
 
 This tutorial shows how to use different parts of [Knative](https://www.knative.dev/docs/).
 
