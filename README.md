@@ -1,4 +1,6 @@
 # Knative Tutorial
+
+|----|----|
 | -a | logical and
 Similar to && |
 | --- | --- |
